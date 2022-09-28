@@ -1,0 +1,6 @@
+framework module Pods_trial {
+  umbrella header "Pods-trial-umbrella.h"
+
+  export *
+  module * { export * }
+}
